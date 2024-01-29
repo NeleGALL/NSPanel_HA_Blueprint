@@ -5959,13 +5959,13 @@ variables:
         sat: Суббота
         sun: Воскресение
       weekdays_short:
-        mon: Mon
-        tue: Tue
-        wed: Wed
-        thu: Thu
-        fri: Fri
-        sat: Sat
-        sun: Sun
+        mon: пн
+        tue: вт
+        wed: ср
+        thu: чт
+        fri: пт
+        sat: сб
+        sun: вс
       months:
         jan: January
         feb: February
